@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello! My name is Anastasia, I’ll tell you a little about myself:
 Front-end developer inspired by the beauty of websites. 🌟 I live in Portugal, but was born in Ukraine, lived in Poland for 4 years. I speak Polish, Ukrainian and Russian. I am learning English and Portuguese. 🚀 I create creative and interactive web applications.
 
 # 💻 Tech Stack:
